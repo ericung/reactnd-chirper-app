@@ -8,6 +8,6 @@
     "\\src\\reducers",
     "\\src\\utils"
   ],
-  "SelectedNode": "\\src\\index.js",
+  "SelectedNode": "\\src\\actions\\tweets.js",
   "PreviewInSolutionExplorer": false
 }
